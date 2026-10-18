@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "umt",
+  "source_name": "Perpustakaan Sultanah Nur Zahirah (Universiti Malaysia Terengganu)",
+  "source_base_url": "https://psnz.umt.edu.my/",
+  "terms_url": "https://psnz.umt.edu.my/",
+  "terms_verified_on": "2026-10-17",
+  "harvester_name": "umt-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-17T06-17-52Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-17T06:20:53.528Z",
+  "finished_at": "2026-10-17T06:20:53.528Z",
+  "record_count": 0,
+  "error_count": 0,
+  "status": "partial",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/umt; contact@pustakaterbuka.org)",
+  "notes": "UMT harvest completed. Total: 0 records."
+}
